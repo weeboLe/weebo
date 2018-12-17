@@ -1,2 +1,0 @@
-# weebo
-good
